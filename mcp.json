@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "nopressure": {
+      "url": "https://nopressure-mcp-grok.labs.jb.gg/mcp"
+    }
+  }
+}
