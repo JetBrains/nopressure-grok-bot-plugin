@@ -1,0 +1,26 @@
+{
+  "name": "nopressure",
+  "displayName": "NoPressure",
+  "version": "0.1.0",
+  "description": "Rehearse hard workplace conversations before they happen. NoPressure turns a situation into a live voice roleplay with a realistic character, sends a practice link, and brings the feedback back to the chat.",
+  "author": {
+    "name": "JetBrains s.r.o."
+  },
+  "homepage": "https://nopressure.io",
+  "repository": "https://github.com/JetBrains/nopressure-grok-bot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "nopressure",
+    "roleplay",
+    "communication",
+    "feedback",
+    "workplace",
+    "practice",
+    "coaching",
+    "grok-bot",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
